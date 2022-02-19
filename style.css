@@ -1,0 +1,14 @@
+.jumbotron{
+	background-image: url(image/slider1.jpg);
+	background-size: cover;
+	height: 750px;
+	text-align: center;
+}
+.jumbotron .display-4{
+	color: white;
+	margin-top: 200px;
+}
+.jumbotron .lead{
+	color: white;
+
+}
